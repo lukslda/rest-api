@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name": "Julio",
+        "lastname": "Cortázar"            
+    },
+    {
+        "id":2,
+        "name": "Ernesto",
+        "lastname": "Sabato"
+    },
+    {
+        "id":3,
+        "name": "Roberto",
+        "lastname": "Arlt"
+    },
+    {
+        "id":4,
+        "name": "Jorge Luis",
+        "lastname": "Borges"
+    },
+    {
+        "id":5,
+        "name": "Adolfo",
+        "lastname": "Bioy Casares"
+    },
+    {
+        "id":6,
+        "name": "Esteban",
+        "lastname": "Echeverría"
+    },
+    {
+        "id":7,
+        "name": "Juan José",
+        "lastname": "Saer"
+    }
+]
