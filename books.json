@@ -1,37 +1,37 @@
 [
     {
         "id":1,
-        "name": "Rayuela",
+        "title": "Rayuela",
         "authorID": 1
     },
     {
         "id":2,
-        "name": "Sobre héroes y tumbas",
+        "title": "Sobre héroes y tumbas",
         "authorID": 2
     },
     {
         "id":3,
-        "name": "El juguete rabioso",
+        "title": "El juguete rabioso",
         "authorID": 3
     },
     {
         "id":4,
-        "name": "El Aleph",
+        "title": "El Aleph",
         "authorID": 4
     },
     {
         "id":5,
-        "name": "La invención de Morel",
+        "title": "La invención de Morel",
         "authorID": 5
     },
     {
         "id":6,
-        "name": "El Matadero",
+        "title": "El Matadero",
         "authorID": 6
     },
     {
         "id":7,
-        "name": "Cicatrices",
+        "title": "Cicatrices",
         "authorID": 7
     }
 ]
